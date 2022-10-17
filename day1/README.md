@@ -6,7 +6,8 @@ Given a string sentence containing only lowercase English letters, return true i
 ### Example 1
    ```Input: sentence = "thequickbrownfoxjumpsoverthelazydog"
    Output: true
-   Explanation: sentence contains at least one of every letter of the English alphabet.```
+   Explanation: sentence contains at least one of every letter of the English alphabet.
+   ```
 
 ### Example 2:
 
